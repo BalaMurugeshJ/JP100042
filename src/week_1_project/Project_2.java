@@ -28,7 +28,7 @@ public class Project_2 {
           length();
           continue;
         case 2:
-          weight();
+          temperature();
           continue;
         case 3:
           weight();
